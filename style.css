@@ -1,0 +1,76 @@
+body{
+    font-family: "Montserrat";
+}
+.container-fluid{
+    padding-top: 0%;
+    padding-bottom: 10%;
+    
+}
+
+.rectangle{
+    position: absolute;
+width: 1440px;
+height: 576px;
+left: 0px;
+top: 0px;
+ background: #F0FFF0;
+}
+.logo{
+    position: absolute;
+width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+}
+.navbar{
+    padding-bottom: 10px;
+}
+.nav-item{
+    padding: 0 10px;
+    font-family: 'Poppins';
+}
+#sign-in{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #FFFFFF;
+   
+  
+    width: 104px;
+     height: 43px;
+    background: #21B573;
+border-radius: 33px;
+}
+.text-section{
+    font-family: Poppins; 
+  
+}
+.text-section h3{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.Illustration img{
+    position: absolute;
+    width: 554px;
+height: 346px;
+left: 691px;
+top: 157px;
+}
+.get-now-btn{
+    display: flex;
+    flex-direction: row;
+       align-items: center;
+    background: #21B573;
+    padding: 0 36px;
+    gap: 10px;
+border-radius: 33px;
+width: 153px;
+height: 43px;
+left: 205px;
+top: 470px;
+color: #FFFFFF;
+border: none;
+}
+
